@@ -1,5 +1,5 @@
 # Marina Drygala
-![Roger G. Melko](/assets/fishing.jpg)
+![Marina Drygala](/assets/fishing.jpg)
 
 <SPAN STYLE="font-size: 13pt;font-weight:bold">
 [Professor](https://uwaterloo.ca/physics-astronomy/people-profiles/roger-melko), Department of Physics & Astronomy, University of Waterloo
