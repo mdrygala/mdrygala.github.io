@@ -1,4 +1,4 @@
-# Roger G. Melko
+# Marina Drygala
 ![Roger G. Melko](/assets/fishing.jpg)
 
 <SPAN STYLE="font-size: 13pt;font-weight:bold">
