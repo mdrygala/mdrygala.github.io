@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="/assets/fishing.jpg">
+  <img src="/assets/photo_me.jpeg" width="300" height="300">
 </p>
 
 # Marina Drygala
