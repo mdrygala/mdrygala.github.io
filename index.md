@@ -21,7 +21,7 @@ Marina Drygala, Silvio Lattanzi, Andreas Maggiori, Andreas Maggiori, Ola Svensso
 
 ####  Online algorithms with costly predictions
 Marina Drygala, Marina Drygala, Marina Drygala
-* [Conference Version](https://drops.dagstuhl.de/storage/00lipics/lipics-vol325-itcs2025/LIPIcs.ITCS.2025.46/LIPIcs.ITCS.2025.46.pdf)(https://proceedings.mlr.press/v206/drygala23a/drygala23a.pdf): AISTATSS '23
+* [Conference Version](https://proceedings.mlr.press/v206/drygala23a/drygala23a.pdf): AISTATS '23
 
 ##### A Simple LP-Based Approximation Algorithm for the Matching Augmentation Problem
 
