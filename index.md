@@ -6,7 +6,9 @@
 
 ---
 
-I'm currently in my final-year pursuing a Ph.D. in computer science at EPFL, where I am fortunate to be supervised by Ola Svensson. I'm broadly interested in theoretical computer science, where my research focuses on the study of approximation algorithms for problems in the area of combinatorial optimization, and beyond worst-case analysis.
+I’m currently in the final year of my Ph.D. in Computer Science at EPFL, where I am fortunate to be supervised by Ola Svensson. My research broadly focuses on theoretical computer science, with an emphasis on approximation algorithms, combinatorial optimization, and beyond worst-case analysis. I am also increasingly interested in the intersection of theoretical computer science and machine learning, particularly in how algorithmic techniques can enhance data-driven decision-making and optimization.
+
+
 
 Email: firstname.lastname at epfl.ch   
 [CV](/assets/Marina_Drygala_CV.pdf) 
