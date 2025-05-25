@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am in the final year of my PhD at EPFL where I am fortunate to be supervised by Ola Svensson I work on foundational problems theoretical computerscience as well as exploring the mathematical foundations and applications of the machine learning.
-Before that I earned my Master’s and Bachelor’s degrees from the University of Waterloo, where I design optimization algorithms for pediatric cranial reconstruction surgery. I also worked the Perimeter Institute where I developed deep neural networks to simulate quantum systems.
+I am in the final year of my PhD at [EPFL](https://www.epfl.ch/en/) where I am fortunate to be supervised by [Ola Svensson](https://theory.epfl.ch/osven/). My research focuses on foundational problems in theoretical computer science, as well as the mathematical foundations and applications of machine learning.
+Before that I earned my Master’s and Bachelor’s degrees from the [University of Waterloo](https://uwaterloo.ca/), where I designed optimization algorithms for pediatric cranial reconstruction surgery. I also worked the [Perimeter Institute](https://perimeterinstitute.ca/), where I developed deep neural networks to simulate quantum systems.
 
