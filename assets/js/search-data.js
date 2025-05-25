@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-my-work-at-perimeter-was-highlighted-in-the-entangler-publication-as-part-of-iqc-s-push-toward-integrating-ai-with-quantum-research",
+          title: 'My work at Perimeter was highlighted in the Entangler publication as part of...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
