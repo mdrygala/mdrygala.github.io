@@ -194,6 +194,7 @@ exclude:
   - _pages/books.md
   - _pages/cv.md
   - _pages/profiles.md
+  - _pages/projects.md
   - purgecss.config.js
   - README.md
   - readme_preview/
